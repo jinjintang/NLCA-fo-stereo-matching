@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Basic Functions">
+      <UniqueIdentifier>{f16eebc8-0205-4dc2-8814-18f0fdce5e68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Minimum Spanning Tree">
+      <UniqueIdentifier>{f8ec6142-726e-4289-904a-0c0d72eabe06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Aggregation on Minimum Spanning Tree">
+      <UniqueIdentifier>{e795def8-0fc3-4926-98df-b1090f3bc0cb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ctmf.c">
+      <Filter>Basic Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="qx_basic.cpp">
+      <Filter>Basic Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="qx_ppm.cpp">
+      <Filter>Basic Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="qx_mst_kruskals_image.cpp">
+      <Filter>Minimum Spanning Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="qx_nonlocal_cost_aggregation.cpp">
+      <Filter>Aggregation on Minimum Spanning Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="qx_tree_filter.cpp">
+      <Filter>Aggregation on Minimum Spanning Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="example.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ctmf.h">
+      <Filter>Basic Functions</Filter>
+    </ClInclude>
+    <ClInclude Include="qx_basic.h">
+      <Filter>Basic Functions</Filter>
+    </ClInclude>
+    <ClInclude Include="qx_ppm.h">
+      <Filter>Basic Functions</Filter>
+    </ClInclude>
+    <ClInclude Include="qx_mst_kruskals_image.h">
+      <Filter>Minimum Spanning Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="qx_nonlocal_cost_aggregation.h">
+      <Filter>Aggregation on Minimum Spanning Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="qx_tree_filter.h">
+      <Filter>Aggregation on Minimum Spanning Tree</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

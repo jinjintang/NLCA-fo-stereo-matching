@@ -1,0 +1,5 @@
+﻿  example.cpp
+c:\users\administrator\pictures\改\a non-local cost aggregation method for stereo matching\qx_basic.h(67): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\pictures\改\a non-local cost aggregation method for stereo matching\qx_basic.h(68): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\pictures\改\a non-local cost aggregation method for stereo matching\qx_basic.h(70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  qx_nonlocal_cost_aggregation.vcxproj -> C:\Users\Administrator\Pictures\改\A Non-Local Cost Aggregation Method for Stereo Matching\Debug\qx_nonlocal_cost_aggregation.exe
